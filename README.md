@@ -8,7 +8,9 @@ An evidence-led Ramayana explorer. Lineages, places and events of the Vālmīki 
 - **Graph explorer** (`/graph`, `/graph/[id]`): every person, place, event and concept, their relations with claim-type badges, the verses behind each relation, and derived ancestry.
 - **Sources** (`/sources`): base edition, policy, and every pāda the graph quotes.
 
-Claim types are kept apart everywhere: textual, derived, interpretive, reflective. See `docs/EVIDENCE_MODEL.md`, `docs/SOURCE_POLICY.md` and `docs/ARCHITECTURE.md`.
+Claim types are kept apart everywhere: textual, derived, interpretive, reflective. Start with `docs/HOW_IT_WORKS.md` (plain-language explainer), then `docs/EVIDENCE_MODEL.md`, `docs/SOURCE_POLICY.md` and `docs/ARCHITECTURE.md`.
+
+Live site: https://antarramayana.vercel.app
 
 ## Base edition
 
